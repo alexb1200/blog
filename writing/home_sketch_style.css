@@ -1,0 +1,27 @@
+
+  .sketch {
+    /* width: -33.33%;
+    
+    margin: auto;
+    /* position: relative; */
+    /* margin: 0;
+     /* This centers our sketch horizontally. */
+
+
+     /* justify-content: center; */
+  
+     /* This centers our sketch vertically. 
+     align-items: center; 
+    */
+    display: block;
+    width: 40vw;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -40vw;
+    margin-right:-50vw;
+
+    
+  
+   
+  }
