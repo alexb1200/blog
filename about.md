@@ -1,74 +1,51 @@
 ---
-layout: article
-titles:
-  # @start locale config
-  en      : &EN       About
-  en-GB   : *EN
-  en-US   : *EN
-  en-CA   : *EN
-  en-AU   : *EN
-  zh-Hans : &ZH_HANS  关于
-  zh      : *ZH_HANS
-  zh-CN   : *ZH_HANS
-  zh-SG   : *ZH_HANS
-  zh-Hant : &ZH_HANT  關於
-  zh-TW   : *ZH_HANT
-  zh-HK   : *ZH_HANT
-  ko      : &KO       소개
-  ko-KR   : *KO
-  fr      : &FR       À propos
-  fr-BE   : *FR
-  fr-CA   : *FR
-  fr-CH   : *FR
-  fr-FR   : *FR
-  fr-LU   : *FR
-  # @end locale config
-key: page-about
+layout : article
+title: Hi I'm Alex
+tags: AI Neurology Art
+mode: immersive
+
+header:
+  background: 'linear-gradient(135deg, rgb(34, 139, 87), rgb(139, 34, 139))'
+article_header:
+  type: overlay
+  background_image:
+    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
+    src: /duckEdit.jpg
+show_date: true
+
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
+## About me
+I've made this as a collection for some thoughts, projects, and ideas. I'm a Comp Sci Student at Florida International Univeristy. I'm interested in math, generative art, economics, neurology, and biology. This naturally led me to working with AI, which suggested that I add this sentence: "I'm also interested in the intersection of technology and technology." So yeah, I like technology too and especially how it changes us. I've worked a bit with post-quantum encryption too. [Afterall lattices are beautiful]() [Here's my blog](https://alexb1200.github.io/blog) and [Here's my art](https://alexb1200.github.io/art) and [Here's my github](https://github.com/alexb1200).
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
+### Here's a bit of my resume if you're interested.
 
-```javascript
-(() => console.log('Hello, World!'))();
-```
 
-## Features
+*Dioptra Machine Learning Test Bench @ MITRE* 
+{:.info}
 
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
 
-## Skins
+ Dioptra is a NIST-sponsored test bench made to evaluate machine learning models for fairness and adversarial robustness. I architected, designed, and implemented in python a measurement module for Dioptra to enable researchers and practitioners alike to quickly test hypothesis and develop meaningful conclusions from data.  
+{:.success} 
 
-TeXt has 6 built-in skins, you can also set up your own skin.
 
-| `default` | `dark` | `forest` |
-| --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
+ *Machine Learning for Encryption @ FIU ADWISE* 
+{:.info}
 
-| `ocean` | `chocolate` | `orange` |
-| --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
+I initially worked as an assistant to a graduate student working on Multiparty Secure Computation. I then began a self-directed project on lattice-based cryptography using machine learning to increase the efficiency of sampling algorithms used to generate keys in-order to increase the feasibility of post-quantum encryption on IoT devices. Proof of concept developed in Mathematica and Implemented in python using TensorFlow 2. 
+{:.success} 
 
-### Highlight Theme
 
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
+Undergraduate Research on UAV Swarms @ FIU ACyD Lab
+{:.info}
 
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
+I developed a novel reinforcement learning algorithm to coordinate a swarm of UAVs on a search mission in a simulated environment. I then extended this work to deep reinforcement learning, implementing the algorithm in TensorFlow 2 and python. I was published in IEEE SmartComp as first co-author.
+{:.success}
+
+Undergraduate Research on Quantum Computing @ MDC
+{:.info}
+
+I implemented classical compression algorithms in python which I then compared to quantum compression algorithms I implemented using IBM’s Qiskit platform. I presented a mathematical overview of quantum computing and its important algorithms in a poster board session to peers.
+{:.success}
+
+
