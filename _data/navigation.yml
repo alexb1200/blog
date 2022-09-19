@@ -1,4 +1,8 @@
 header:
+- title: Home
+    url: https://alexb1200.github.io/
+  - title: Art
+    url: https://alexb1200.github.io/art
   - titles:
       # @start locale config
       en      : &EN       Archive
