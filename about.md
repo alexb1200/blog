@@ -16,7 +16,7 @@ show_date: true
 ---
 
 ## About me
-I've made this as a collection for some thoughts, projects, and ideas. I'm a Comp Sci Student at Florida International Univeristy. I'm fascinated by human perception and cognition so I spend a lot of time studying math, generative art, economics, neurology, and biology. Naturally led me to working with AI. An AI suggested that I add this sentence: "I'm also interested in the intersection of technology and technology." So yeah, I like technology too and especially how it changes us. I've worked a bit with post-quantum encryption too. [Here's my blog](https://alexb1200.github.io/blog) and [Here's my art](https://alexb1200.github.io/art) and [Here's my github](https://github.com/alexb1200).
+I've made this as a collection for some thoughts, projects, and ideas. I'm a Comp Sci Student at Florida International Univeristy. I'm fascinated by human perception and cognition so I spend a lot of time studying math, generative art, economics, neurology, and biology. Naturally, this led me to working with AI. An AI suggested that I add this sentence: "I'm also interested in the intersection of technology and technology." So yeah, I guess I like technology too and especially how it changes us and our perception of the world. I've worked a bit with post-quantum encryption too. [Here's my blog](https://alexb1200.github.io/blog) and [Here's my art](https://alexb1200.github.io/art) and [Here's my github](https://github.com/alexb1200).
 
 ### Here's a bit of my resume if you're interested.
 
